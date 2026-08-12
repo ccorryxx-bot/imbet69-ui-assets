@@ -1,8 +1,8 @@
 category,new_path,imagekit_url,used_in
-agent-avatar,ui/agent/avatar-a.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt0.dd0fe52d%20(1,src/data/agent.ts:70
-agent-avatar,ui/agent/avatar-b.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt2.9b11cc3a%20(2,src/data/agent.ts:71
-agent-avatar,ui/agent/avatar-c.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt4.e51f6a6a%20(1,src/data/agent.ts:72
-agent-avatar,ui/agent/avatar-n.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt3.4dd4d61a%20(1,src/data/agent.ts:73
+agent-avatar,ui/agent/avatar-a.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt0.dd0fe52d%20(1).png?tr=f-auto,src/data/agent.ts:70
+agent-avatar,ui/agent/avatar-b.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt2.9b11cc3a%20(2).png?tr=f-auto,src/data/agent.ts:71
+agent-avatar,ui/agent/avatar-c.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt4.e51f6a6a%20(1).png?tr=f-auto,src/data/agent.ts:72
+agent-avatar,ui/agent/avatar-n.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/avt3.4dd4d61a%20(1).png?tr=f-auto,src/data/agent.ts:73
 agent,ui/agent/wallet-promo-banner.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/IMG_20260721_030125.png?tr=f-auto,src/components/agent/WalletTab.tsx:185
 app,ui/app/launcher-icon.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/ic_launcher.png?tr=f-auto,src/lib/appDownload.ts:20
 avatar,ui/avatar/1.webp,https://ik.imagekit.io/rbok01qam/Avatar%20Img/b8a2f5c9-7574-412c-a057-172ac9d1e640.png?tr=f-auto,src/pages/ProfilePage.tsx:53
@@ -39,18 +39,18 @@ category-icon,ui/category/fishing.gif,https://ik.imagekit.io/xxgmkov9d/New%20Fol
 category-icon,ui/category/hot.gif,https://ik.imagekit.io/xxgmkov9d/New%20Folder/fa660930-8ce0-11f1-b824-19a0fa3cbdca.gif?tr=f-auto,src/components/layout/Sidebar.tsx:47; src/lib/categoryIcons.tsx:11
 category-icon,ui/category/live-casino.webp,https://ik.imagekit.io/xxgmkov9d/New%20Folder/a1da3d41196d2650c9abe37338ed3144.jpg?tr=f-auto,src/components/layout/Sidebar.tsx:50; src/lib/categoryIcons.tsx:14
 category-icon,ui/category/slots.gif,https://ik.imagekit.io/xxgmkov9d/New%20Folder/15196780-8ce2-11f1-968c-01c815938387.gif?tr=f-auto,src/components/layout/Sidebar.tsx:48; src/lib/categoryIcons.tsx:12
-footer,ui/footer/banking-label.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/BANKING-txt%20(1,src/components/layout/Footer.tsx:31
-footer,ui/footer/kbzpay-label.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/KBZPAY-txt%20(1,src/components/layout/Footer.tsx:33
-footer,ui/footer/wavemoney-label.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/WAVEMONEY-txt%20(1,src/components/layout/Footer.tsx:32
+footer,ui/footer/banking-label.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/BANKING-txt%20(1).webp?tr=f-auto,src/components/layout/Footer.tsx:31
+footer,ui/footer/kbzpay-label.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/KBZPAY-txt%20(1).webp?tr=f-auto,src/components/layout/Footer.tsx:33
+footer,ui/footer/wavemoney-label.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/WAVEMONEY-txt%20(1).webp?tr=f-auto,src/components/layout/Footer.tsx:32
 jackpot,ui/jackpot/chance-icon.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/chance-open.webp,src/components/game/StatsDisplay.tsx:9
 misc,ui/misc/recent-winners-header.gif,https://ik.imagekit.io/gzx8v6evk/New%20Folder/a12ef150-923b-11f1-b028-052ac88a0cbd.gif?tr=f-auto,src/hooks/useDisplayAssets.ts:41
 payment,ui/payment/ayabank.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/b349dc4f29181bec2045c678d1923083.jpg?tr=f-auto,src/data/payments.ts:9
 payment,ui/payment/btc.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/ffacd40e57316436a752ecf1224fb94e.jpg?tr=f-auto,src/data/payments.ts:11
 payment,ui/payment/kbzbank.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/2702245a8073616158c8f6ee598a60d4.jpg?tr=f-auto,src/data/payments.ts:10
-payment,ui/payment/kbzpay.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/f9ee263c-024a-4e2e-9d5b-6f5918aeb8a6%20(1,src/data/payments.ts:6
+payment,ui/payment/kbzpay.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/f9ee263c-024a-4e2e-9d5b-6f5918aeb8a6%20(1).jpg?tr=f-auto,src/data/payments.ts:6
 payment,ui/payment/uabpay.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/1781076796857.jpeg?tr=f-auto,src/data/payments.ts:8
 payment,ui/payment/usdt.webp,https://ik.imagekit.io/xxgmkov9d/New%20Folder/61e20ad43bafe0ca2b7ada87f1792a4c.jpg?tr=f-auto,src/data/payments.ts:3
-payment,ui/payment/wavepay.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/7ff494f1-3a7c-4583-82a7-3bfca145e852%20(1,src/data/payments.ts:7
+payment,ui/payment/wavepay.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/7ff494f1-3a7c-4583-82a7-3bfca145e852%20(1).jpg?tr=f-auto,src/data/payments.ts:7
 profile,ui/profile/icon-agent.webp,https://ik.imagekit.io/rbok01qam/Custom%20icons%20img/style_6_icon_list_fxzq.avif?updatedAt=1780926787711&tr=f-auto,src/pages/ProfilePage.tsx:1031
 profile,ui/profile/icon-daily-checkin.webp,https://ik.imagekit.io/rbok01qam/Custom%20icons%20img/style_6_icon_list_mrqd.avif?updatedAt=1780926787645&tr=f-auto,src/pages/ProfilePage.tsx:1053
 profile,ui/profile/icon-lucky-draw.webp,https://ik.imagekit.io/rbok01qam/Custom%20icons%20img/style_6_icon_list_kyd.avif?updatedAt=1780926787634&tr=f-auto,src/pages/ProfilePage.tsx:1036
@@ -66,7 +66,7 @@ provider-logo,ui/provider/pg-logo.webp,https://ik.imagekit.io/5rkqceora/New%20Fo
 provider-logo,ui/provider/pp-logo.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/PP-logo.webp?tr=f-auto,src/components/layout/Footer.tsx:22; src/hooks/useDisplayAssets.ts:33; src/pages/HomePage.tsx:49
 quicklinks,ui/quicklinks/checkin-btn.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/checkInBtn-R.webp?tr=f-auto,src/components/layout/FloatingQuickLinks.tsx:18
 quicklinks,ui/quicklinks/floating-icon.webp,https://ik.imagekit.io/xxgmkov9d/New%20Folder/2028706161105256449.avif?tr=f-auto,src/components/layout/FloatingQuickLinks.tsx:20
-quicklinks,ui/quicklinks/marketing-medium.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/marketing_medium_dx_2_15%20(1,src/components/layout/FloatingQuickLinks.tsx:16
+quicklinks,ui/quicklinks/marketing-medium.webp,https://ik.imagekit.io/5rkqceora/New%20Folder/marketing_medium_dx_2_15%20(1).avif?tr=f-auto,src/components/layout/FloatingQuickLinks.tsx:16
 referral,ui/referral/instant-challenge-title.webp,https://ik.imagekit.io/xxgmkov9d/New%20Folder/Instant-Challenge-title.webp?tr=f-auto,src/pages/ProfilePage.tsx:1312
 referral,ui/referral/locked-tier-icon.webp,https://ik.imagekit.io/xxgmkov9d/New%20Folder/goldbox-s.webp?tr=f-auto,src/pages/ProfilePage.tsx:1342
 social,ui/social/facebook-icon.webp,https://ik.imagekit.io/tdpebgueq/Agent_Tap_icons/5bb0f73a7b3e0f976acad614a42e5040.jpg?tr=f-auto,src/pages/ProfilePage.tsx:1418
